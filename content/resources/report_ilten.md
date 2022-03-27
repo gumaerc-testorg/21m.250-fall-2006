@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7b73b225-27b2-2337-36dc-934f7404b877
 resourcetype: Document
 title: Second Concert Report
 uid: 9f225975-2b53-4190-716d-84014cb54b98
