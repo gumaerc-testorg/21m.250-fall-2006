@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the reading assignments for the course, organized
+  by lecture session, topic, and composer.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
