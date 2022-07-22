@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides information on course structure, meeting
+  times, assignments, books, grading, and a chronology of composers.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 3c9e97c4-0ebc-d8db-9cda-db2e03a217ad
 ---

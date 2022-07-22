@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This sections lists suggested recordings of works assigned for each class
+  session. In some cases, public domain scores are also linked via the International
+  Music Score Library Project (IMSLP).
+learning_resource_types: []
+ocw_type: CourseSection
 title: Listening
 uid: 26b80207-7ded-2324-1dbe-146f2783287e
 ---
@@ -173,7 +178,7 @@ Brahms, Johannes. Op. 95 #1 "Das Madchen" (1884). Jessye Norman, soprano; Daniel
 
 Wolf, Hugo. "Verborgenheit" (1889). Olaf Bär, baritone; Geoffrey Parsons, piano. _Mörike-Lieder_. EMI 7 49054 2, 1987.
 
-———. "Mausfallen Spruchlein" (1888). Elisabeth Schwarzkopf, soprano; Gerald Moore, piano. [_Wolf: Lieder-Recital, Salzburger Festspiele 1958_]({{< baseurl >}}/pages/listening). EMI Classics 7 64905 2, 1993.
+———. "Mausfallen Spruchlein" (1888). Elisabeth Schwarzkopf, soprano; Gerald Moore, piano. {{% resource_link 26b80207-7ded-2324-1dbe-146f2783287e "_Wolf: Lieder-Recital, Salzburger Festspiele 1958_" %}}. EMI Classics 7 64905 2, 1993.
 
 Strauss: "Allerseelen." Op. 10 #8 (1885). Felicity Lott, soprano; Graham Johnson, piano. _Richard Strauss: Songs_. ASV DCA 1155, 2003.
 
@@ -208,7 +213,7 @@ Debussy, Claude. "Ariettes Oubliees." L. 60 #1 (1887): Frederica von Stade, sopr
 
 ———. "L'Isle Joyuese" (1904). Alexis Weissenberg, piano. _Debussy: Piano Works_. Deutsche Grammophon, 1995.
 
-———. "Preludes": Minstrels, (1910) La Puerta del Vino, Feux d'artifice (1913). Walter Gieseking, piano. [_Debussy: Préludes_]({{< baseurl >}}/pages/listening). EMI Classics, 2000.
+———. "Preludes": Minstrels, (1910) La Puerta del Vino, Feux d'artifice (1913). Walter Gieseking, piano. {{% resource_link 26b80207-7ded-2324-1dbe-146f2783287e "_Debussy: Préludes_" %}}. EMI Classics, 2000.
 
 
 {{< tdclose >}}
@@ -241,7 +246,7 @@ Debussy, Claude. "Ariettes Oubliees." L. 60 #1 (1887): Frederica von Stade, sopr
 Schubert String Quintet
 {{< tdclose >}}
 {{< tdopen >}}
-Schubert, Franz. String Quintet (1827), complete. Lindsay String Quartet with Douglas Cummings, 2nd violincello. [_Schubert: String Quintet in C_]({{< baseurl >}}/pages/listening). ASV DCA 537, 1985.
+Schubert, Franz. String Quintet (1827), complete. Lindsay String Quartet with Douglas Cummings, 2nd violincello. {{% resource_link 26b80207-7ded-2324-1dbe-146f2783287e "_Schubert: String Quintet in C_" %}}. ASV DCA 537, 1985.
 {{< tdclose >}}
 {{< tdopen >}}
 [Schubert: String Quintet](http://imslp.org/wiki/String_Quintet_in_C_Major_%28Schubert%2C_Franz%29)
@@ -258,7 +263,7 @@ Brahms
 {{< tdopen >}}
 
 
-Brahms, Johannes. First Trio op. 8, 1st movement (1853-4). Isaac Stern, violin; Leonard Rose, violoncello; Eugene Istomin, piano. [_Piano Trios Nos. 1-3; Piano Quartets Nos. 1-3. Sony Classical_]({{< baseurl >}}/pages/listening), 1995.
+Brahms, Johannes. First Trio op. 8, 1st movement (1853-4). Isaac Stern, violin; Leonard Rose, violoncello; Eugene Istomin, piano. {{% resource_link 26b80207-7ded-2324-1dbe-146f2783287e "_Piano Trios Nos. 1-3; Piano Quartets Nos. 1-3. Sony Classical_" %}}, 1995.
 
 ———. Piano Quintet op. 34, 3rd movement (Scherzo) (1862). Budapest String Quartet and George Szell, piano. _Brahms/Schubert: Quintets_. Bridge 9062, 1996.
 
@@ -588,7 +593,7 @@ Sibelius, Jean. Symphony No. 3. 1st and 2nd movement (1907). Philharmonia Orches
 Mahler
 {{< tdclose >}}
 {{< tdopen >}}
-Mahler, Gustav. Symphony No. 3. (1893-6, final version 1906) San Francisco Symphony; Michael Tilson Thomas, conductor. [_Mahler: Symphony no. 3; Kindertotenlieder_]({{< baseurl >}}/pages/listening). San Francisco Symphony, 2002.
+Mahler, Gustav. Symphony No. 3. (1893-6, final version 1906) San Francisco Symphony; Michael Tilson Thomas, conductor. {{% resource_link 26b80207-7ded-2324-1dbe-146f2783287e "_Mahler: Symphony no. 3; Kindertotenlieder_" %}}. San Francisco Symphony, 2002.
 {{< tdclose >}}
 {{< tdopen >}}
  

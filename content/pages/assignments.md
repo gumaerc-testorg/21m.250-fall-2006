@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides a description of the concert report assignments
+  for the course and an example of student work.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 7b73b225-27b2-2337-36dc-934f7404b877
 ---
@@ -9,4 +14,4 @@ Students are required to write three concert reports during the term. These repo
 Example Concert Reports
 -----------------------
 
-MIT Symphony Orchestra (MITSO) performance of Wagner's _Die Meistersinger von Nurenburg_. ([PDF]({{< baseurl >}}/resources/report_ilten)) (Courtesy of Philip Ilten. Used with permission.)
+MIT Symphony Orchestra (MITSO) performance of Wagner's _Die Meistersinger von Nurenburg_. ({{% resource_link 9f225975-2b53-4190-716d-84014cb54b98 "PDF" %}}) (Courtesy of Philip Ilten. Used with permission.)
