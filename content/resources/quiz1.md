@@ -6,6 +6,7 @@ file: /courses/21m-250-schubert-to-debussy-fall-2006/ba9cd53f87291b9420bc35fd041
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Quiz I
 uid: ba9cd53f-8729-1b94-20bc-35fd041394ef
 ---
 In-class quiz containing listening questions and some short essay questions on developments in Western musical style.
-
