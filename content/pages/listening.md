@@ -9,7 +9,7 @@ title: Listening
 uid: 26b80207-7ded-2324-1dbe-146f2783287e
 ---
 
-This page lists suggested recordings of works assigned for each class session. In some cases, public domain scores are also linked via the [International Music Score Library Project (IMSLP)](http://www.imslp.org/index.php?title=Main_Page).
+This page lists suggested recordings of works assigned for each class session. In some cases, public domain scores are also linked via the {{% resource_link "5a5e8c54-f2dc-49a7-84e9-02a0bff3cea6" "International Music Score Library Project (IMSLP)" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -74,15 +74,15 @@ Mendelssohn, Felix. op. 38 #6, op. 53 #5, and op. 62 #3 (1842). Daniel Barenboim
 {{< tdopen >}}
 
 
-["Erlkönig"](http://imslp.org/wiki/Erlk%C3%B6nig%2C_D.328_%28Op.1%29_%28Schubert%2C_Franz%29)
+{{% resource_link "c987e55e-3ad9-472b-a329-1fcf48370e5f" "\"Erlkönig\"" %}}
 
-["Gretchen am Spinnrade"](http://imslp.org/wiki/Gretchen_am_Spinnrade%2C_D.118_%28Op.2%29_%28Schubert%2C_Franz%29)
+{{% resource_link "44d00e7a-3373-49d9-aa7e-432cefab9939" "\"Gretchen am Spinnrade\"" %}}
 
-[Mendelssohn: Songs Without Words Op. 38](http://imslp.org/wiki/Songs_Without_Words_Op.38_%28Mendelssohn%2C_Felix%29)
+{{% resource_link "ad7501d4-4889-4d13-935d-b721eccf7a93" "Mendelssohn: Songs Without Words Op. 38" %}}
 
-[Mendelssohn: Songs Without Words Op. 53](http://imslp.org/wiki/Songs_Without_Words_Op.53_%28Mendelssohn%2C_Felix%29)
+{{% resource_link "5f306681-71bf-4718-9e73-c623f9eb4534" "Mendelssohn: Songs Without Words Op. 53" %}}
 
-[Mendelssohn: Songs Without Words Op. 62](http://imslp.org/wiki/Songs_Without_Words_Op.62_%28Mendelssohn%2C_Felix%29)
+{{% resource_link "704bdb3e-52c6-4658-b502-113373cae4ce" "Mendelssohn: Songs Without Words Op. 62" %}}
 
 
 {{< tdclose >}}
@@ -109,9 +109,9 @@ Schumann, Robert. "Dichterliebe." Op. 48 (1840). Peter Schreier, tenor; Norman S
 {{< tdopen >}}
 
 
-[Schumann: Carnaval](http://www.imslp.org/index.php?title=Carnaval_Op.9_%28Schumann%2C_Robert%29)
+{{% resource_link "5acf5d75-cf99-4dbe-b71b-d3e759d80a81" "Schumann: Carnaval" %}}
 
-[Schumann: Fantasie](http://www.imslp.org/index.php?title=Fantasy_Op.17_%28Schumann%2C_Robert%29)
+{{% resource_link "3df0adfe-6c72-494a-a1d3-7132d06f4b94" "Schumann: Fantasie" %}}
 
 
 {{< tdclose >}}
@@ -144,15 +144,15 @@ Liszt, Franz. "Transcendental Etude." #5 ("Feux follets") (1840, rev. 51). Ferru
 {{< tdopen >}}
 
 
-[Chopin: Nocturne Op. 15](http://www.imslp.org/index.php?title=Nocturnes_Op.15_%28Chopin%2C_Frederic%29)
+{{% resource_link "5297a235-673a-4cfb-96c9-b566df3093c8" "Chopin: Nocturne Op. 15" %}}
 
-[Chopin: Mazurkas Op. 6](http://www.imslp.org/index.php?title=Mazurkas_Op.6_%28Chopin%2C_Frederic%29)
+{{% resource_link "fe237e10-b578-4f5a-9744-5a52eee5f91e" "Chopin: Mazurkas Op. 6" %}}
 
-[Chopin: Preludes Op. 28](http://www.imslp.org/index.php?title=Preludes_Op.28_%28Chopin%2C_Frederic%29)
+{{% resource_link "66b5f22c-0022-4c76-b1fe-b73f4bdab25c" "Chopin: Preludes Op. 28" %}}
 
-[Chopin: Ballade No.1 Op. 23](http://www.imslp.org/index.php?title=Ballade_No.1_%28Chopin%2C_Frederic%29)
+{{% resource_link "456ab2d4-1f80-415a-9bfc-a7f4fbdcfb22" "Chopin: Ballade No.1 Op. 23" %}}
 
-[Liszt: Transcendental Etudes](http://imslp.org/wiki/Transcendental_Etudes_%28Liszt%2C_Franz%29)
+{{% resource_link "04834442-467a-4d35-a533-0cd50261a1a7" "Liszt: Transcendental Etudes" %}}
 
 
 {{< tdclose >}}
@@ -187,9 +187,9 @@ Strauss: "Allerseelen." Op. 10 #8 (1885). Felicity Lott, soprano; Graham Johnson
 {{< tdopen >}}
 
 
-[Brahms: Klavierstücke Op.118](http://imslp.org/wiki/Klavierst%C3%BCcke_Op.118_%28Brahms%2C_Johannes%29)
+{{% resource_link "98d66045-0086-4614-bbee-4cf3f097cf34" "Brahms: Klavierstücke Op.118" %}}
 
-[Brahms: Klavierstücke Op.119](http://imslp.org/wiki/Klavierst%C3%BCcke_Op.119_%28Brahms%2C_Johannes%29)
+{{% resource_link "d8d60bed-e044-487c-a8d5-f13924817977" "Brahms: Klavierstücke Op.119" %}}
 
 
 {{< tdclose >}}
@@ -220,13 +220,13 @@ Debussy, Claude. "Ariettes Oubliees." L. 60 #1 (1887): Frederica von Stade, sopr
 {{< tdopen >}}
 
 
-[Fauré: Nocturnes Nos.1-3 op. 33](http://imslp.org/wiki/Nocturnes_Nos.1-3_Op.33_%28Faur%C3%A9%2C_Gabriel%29)
+{{% resource_link "42c2aace-ca14-46ee-948d-93dafa7070da" "Fauré: Nocturnes Nos.1-3 op. 33" %}}
 
-[Debussy: L'Isle Joyeuse](http://imslp.org/wiki/L%27Isle_Joyeuse_%28Debussy%2C_Claude%29)
+{{% resource_link "a13393ed-01ac-4b79-8c7f-446410b51027" "Debussy: L'Isle Joyeuse" %}}
 
-[Debussy: Preludes: Book 1](http://imslp.org/wiki/Pr%C3%A9ludes_%28Book_1%29_%28Debussy%2C_Claude%29) (includes "Minstrels")
+{{% resource_link "f5ec305e-0a9f-4453-8796-ec427176853e" "Debussy: Preludes: Book 1" %}} (includes "Minstrels")
 
-[Debussy: Preludes: Book 2](http://imslp.org/wiki/Pr%C3%A9ludes_%28Book_2%29_%28Debussy%2C_Claude%29) (includes "La Puerta del Vino" and "Feux d'artifice")
+{{% resource_link "bed1c4fa-f278-4aac-aec0-ce24070a62b8" "Debussy: Preludes: Book 2" %}} (includes "La Puerta del Vino" and "Feux d'artifice")
 
 
 {{< tdclose >}}
@@ -249,7 +249,7 @@ Schubert String Quintet
 Schubert, Franz. String Quintet (1827), complete. Lindsay String Quartet with Douglas Cummings, 2nd violincello. {{% resource_link 26b80207-7ded-2324-1dbe-146f2783287e "_Schubert: String Quintet in C_" %}}. ASV DCA 537, 1985.
 {{< tdclose >}}
 {{< tdopen >}}
-[Schubert: String Quintet](http://imslp.org/wiki/String_Quintet_in_C_Major_%28Schubert%2C_Franz%29)
+{{% resource_link "893713b9-3020-4a32-9149-0912e45c132d" "Schubert: String Quintet" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -274,7 +274,7 @@ Brahms, Johannes. First Trio op. 8, 1st movement (1853-4). Isaac Stern, violin; 
 {{< tdopen >}}
 
 
-[Brahms: Piano Quintet op. 34](http://imslp.org/wiki/Quintet_Op.34_-_arrangement_%28Brahms%2C_Johannes%29)
+{{% resource_link "50f8c02b-debd-41ed-8b42-167c67e86d53" "Brahms: Piano Quintet op. 34" %}}
 
 
 {{< tdclose >}}
@@ -303,9 +303,9 @@ Debussy, Claude. String Quartet, Scherzo (1893). Quartetto Italiano. _Debussy & 
 {{< tdopen >}}
 
 
-[Franck: Violin Sonata](http://imslp.org/wiki/Violin_Sonata_%28Franck%2C_C%C3%A9sar%29)
+{{% resource_link "dc17e97c-f2e9-4d63-9186-e576b6ed3f19" "Franck: Violin Sonata" %}}
 
-[Debussy: String Quartet](http://imslp.org/wiki/String_Quartet_No.1_%28Debussy%2C_Claude%29)
+{{% resource_link "146a880f-b1b2-45ca-b33f-076f8292ba16" "Debussy: String Quartet" %}}
 
 
 {{< tdclose >}}
@@ -351,7 +351,7 @@ Wagner, Richard. Die Walküre act III (1854-56). Birgit Nilsson, Hans Hotter, et
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Wagner: Die Walküre](http://imslp.org/wiki/Die_Walk%C3%BCre_%28Wagner%2C_Wilhelm_Richard%29)
+{{% resource_link "841dc5c7-131f-4932-83b9-a3ae9a392159" "Wagner: Die Walküre" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -380,7 +380,7 @@ DVD: _Verdi: La Traviata / Levine, Stratas, Domingo (1982)_. Universal Studios, 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Verdi: Requiem](http://imslp.org/wiki/Requiem_%28Verdi%2C_Giuseppe%29)
+{{% resource_link "1be41893-d497-40a4-9897-2fb22c9574c3" "Verdi: Requiem" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -431,7 +431,7 @@ DVD: Julia Migenes, Plácido Domingo, Lorin Maazel. _Bizet: Carmen (1984)_. Sony
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Tchaikowsky: Eugen Onegin](http://imslp.org/wiki/Eugene_Onegin_%28Tchaikovsky%2C_Pyotr_Ilyich%29)
+{{% resource_link "4b711845-f9c9-4e83-b13b-acb12113bdf9" "Tchaikowsky: Eugen Onegin" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -464,9 +464,9 @@ Moussorgsky, Modest. Pictures at an Exhibition (1874). Anatol Ugorski, piano. _P
 {{< tdopen >}}
 
 
-[Grieg: Piano Concerto in A minor, op. 16](http://imslp.org/wiki/Piano_Concerto_in_A_minor%2C_Op.16_%28Grieg%2C_Edvard%29)
+{{% resource_link "02206152-fa8e-4bec-bbee-20d2dd42b93c" "Grieg: Piano Concerto in A minor, op. 16" %}}
 
-[Moussorgsky: Pictures at an Exhibition](http://imslp.org/wiki/Pictures_at_an_Exhibition_%28Mussorgsky%2C_Modest_Petrovich%29)
+{{% resource_link "90204ac2-0ef3-4b07-9a71-86cfb3875087" "Moussorgsky: Pictures at an Exhibition" %}}
 
 
 {{< tdclose >}}
@@ -510,7 +510,7 @@ Berlioz
 Berlioz, Louis Hector. Orchestre symphonique de Montréal; Charles Dutoit. _Symphonie Fantastique op. 14_ (1830). London, 1985.
 {{< tdclose >}}
 {{< tdopen >}}
-[Berlioz: Symphony Fantastique](http://imslp.org/wiki/Symphonie_fantastique_%28Berlioz%2C_Louis_Hector%29)
+{{% resource_link "4be8911a-e792-4215-9a37-4fe72d609e0a" "Berlioz: Symphony Fantastique" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -533,9 +533,9 @@ Brahms, Johannes. Symphony No. 4 (1884-5). Scottish Chamber Orchestra; Sir Charl
 {{< tdopen >}}
 
 
-[Schumann: Piano Concerto](http://imslp.org/wiki/Piano_Concerto%2C_Op._54_%28Schumann%2C_Robert%29)
+{{% resource_link "95f0ac9f-a101-4eca-b717-be93455d341e" "Schumann: Piano Concerto" %}}
 
-[Brahms: Symphony No. 4](http://imslp.org/wiki/Symphony_No.4_%28Brahms%2C_Johannes%29)
+{{% resource_link "0e6ef33e-376a-43ad-b456-9c30c65430ee" "Brahms: Symphony No. 4" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -558,9 +558,9 @@ Tchaikowsky, Pyotr Ilyich. Violin Concerto. 3rd movement (1878). Kyung Wha Chung
 {{< tdopen >}}
 
 
-[Tchaikowsky: Violin Concerto](http://imslp.org/wiki/Violin_Concerto_%28Tchaikovsky%2C_Pyotr_Ilyich%29).
+{{% resource_link "53688203-0c67-4719-b410-01dd49db4e42" "Tchaikowsky: Violin Concerto" %}}.
 
-[Tchaikowsky: Symphony No. 4](http://imslp.org/wiki/Symphony_No.4_%28Tchaikovsky%2C_Pyotr_Ilyich%29)
+{{% resource_link "de8d5f0e-1e41-4ccc-985b-67feda78a5c1" "Tchaikowsky: Symphony No. 4" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -581,7 +581,7 @@ Sibelius, Jean. Symphony No. 3. 1st and 2nd movement (1907). Philharmonia Orches
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Bruckner: Symphony No. 9](http://imslp.org/wiki/Symphony_No._9_in_D_minor_%28Bruckner%2C_Anton%29)
+{{% resource_link "fd1eb9bf-4bb4-4cff-9bb0-4f9889055822" "Bruckner: Symphony No. 9" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -624,9 +624,9 @@ Debussy, Claude. Prelude to the Afternoon of a Faun (1895). Montréal Symphony O
 {{< tdopen >}}
 
 
-[Elgar: Enigma Variations](http://www.imslp.org/wiki/Variations_on_an_Original_Theme_%28%27Enigma%27%29%2C_Op._36_%28Elgar%2C_Edward%29) (arranged for piano by the composer)
+{{% resource_link "4e80c330-8e20-408e-b8a1-b471e5225428" "Elgar: Enigma Variations" %}} (arranged for piano by the composer)
 
-[Debussy: Prelude to the Afternoon of a Faun](http://www.imslp.org/wiki/Pr%C3%A9lude_%C3%A0_l%27apr%C3%A8s-midi_d%27un_faune_%28Debussy%2C_Claude%29)
+{{% resource_link "2b87bfac-e8e0-4a62-bd8e-0638b2146f54" "Debussy: Prelude to the Afternoon of a Faun" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
